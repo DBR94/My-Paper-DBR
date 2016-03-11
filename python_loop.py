@@ -1,3 +1,5 @@
+#Released under Apache 2 open source
+#license
 #This code is used for writing a paper about loops
 
 word = "Newton"
