@@ -2,7 +2,7 @@
 #license
 #This code is used for writing a paper about loops
 
-word = "Newton"
+word = "Einsteim"
 reversed_word = ""
 
 for char in word:
